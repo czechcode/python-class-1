@@ -6,7 +6,7 @@ Introduction to Python, Curses and PyGames
 
 ### [01 - Python intro](https://github.com/czechcode/python-class-1/blob/master/src/01-python)
 
-### [02 - Python syntax](https://github.com/czechcode/python-class-1/blob/master/src/01-syntax)
+### [02 - Python syntax](https://github.com/czechcode/python-class-1/blob/master/src/02-syntax)
 
 ### [03 - Pygame](https://github.com/czechcode/python-class-1/blob/master/src/03-pygame)
 
